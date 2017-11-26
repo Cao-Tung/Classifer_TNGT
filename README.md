@@ -9,3 +9,5 @@ Output classifer : resultdata.csv
 Train model : run file TNGT.py
 
 Classifer : run file BayesTNGT.py with result data in file resultdata.csv
+
+Store data to MongoDB : run file savetodb.py
